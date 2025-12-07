@@ -29,7 +29,8 @@ Routing: React Router DOM
 
 Hosting: Vercel / Netlify / Render
 
-Project Structure
+Project Structure:
+
 auth-webapp/
 │
 ├─ src/
