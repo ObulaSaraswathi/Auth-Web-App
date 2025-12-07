@@ -1,4 +1,6 @@
 React Firebase Authentication Web App
+
+
 A simple and clean authentication web app built with React and Firebase. It allows users to Sign Up, Login, and access a Dashboard. User credentials are securely stored using Firebase Authentication.
 
 This project is fully functional and ready to deploy on Vercel, Netlify, or Render.
