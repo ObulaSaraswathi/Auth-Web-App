@@ -29,21 +29,6 @@ Routing: React Router DOM
 
 Hosting: Vercel / Netlify / Render
 
-Project Structure:
-
-auth-webapp/
-│
-├─ src/
-│   ├─ components/
-│   │   ├─ Login.js
-│   │   ├─ Signup.js
-│   │   └─ Dashboard.js
-│   ├─ firebase.js
-│   ├─ App.js
-│   └─ index.js
-├─ package.json
-└─ README.md
-
 Setup & Installation
 
 Clone the repository
